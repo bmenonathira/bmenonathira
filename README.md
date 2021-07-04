@@ -8,7 +8,5 @@ Love to work in the field of Computer Science where I can utilize my skills to f
 [README.md](https://github.com/bmenonathira/bmenonathira/files/6759813/README.md)
 
 
-- 🌱 I’m currently learning Data Analytics and IoT
-- 📫 How to reach me bmenonathira@gmail.com
 
 -->
